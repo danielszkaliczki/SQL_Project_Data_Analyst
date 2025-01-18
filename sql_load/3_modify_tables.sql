@@ -41,7 +41,3 @@ WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 COPY skills_job_dim
 FROM 'C:\Users\Szkala.DESKTOP-6OI4BBH\Desktop\csv_files\skills_job_dim.csv'
 WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
-
-select *
-FROM job_postings_fact
-LIMIT 100;
