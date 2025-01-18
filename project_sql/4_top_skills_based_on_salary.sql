@@ -21,7 +21,7 @@ group BY
     skills
 ORDER BY
     skill_salary DESC
-limit 25
+limit 25;
 
 /*
 # Key Trends for Top-Paying Data Analyst Skills

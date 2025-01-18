@@ -24,6 +24,5 @@ where
     AND
     salary_year_avg is not null
 order BY
-    salary_year_avg desc
-limit 10
+    salary_year_avg desc;
 

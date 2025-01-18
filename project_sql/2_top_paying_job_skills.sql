@@ -7,7 +7,6 @@ helping job seekers understand which kills to develop that align with top salari
 */
 
 With top_paying_jobs as (
-
 SELECT
     job_id,
     Job_title,
@@ -28,7 +27,6 @@ order BY
     salary_year_avg desc
 limit 10
 )
-
 select 
     top_paying_jobs.*,
     skills
@@ -37,7 +35,7 @@ from
 inner JOIN skills_job_dim on top_paying_jobs.job_id = skills_job_dim.job_id
 INNER JOIN skills_dim on skills_job_dim.skill_id = skills_dim.skill_id
 order BY
-    salary_year_avg desc
+    salary_year_avg desc;
 
 /* By breaking down the data we found the following results:
 SQL is the most in demand skill with the count of 8.
