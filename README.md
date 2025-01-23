@@ -262,9 +262,9 @@ Since I jumped into this course with simple basic SQL knowledge I had the opport
 Key Insights
 From the analysis, several key takeaways emerged:
 
-1. According to the used database, Hungary does not need the most tremendous amount of data right now. 
+1. According to the used database, Hungary does not have the most tremendous amount of data about data jobs. 
 
-2. Top-Paying Data Analyst Jobs: Remote-friendly data analyst positions offer a wide salary range, with the highest reaching $650,000!
+2. Flexibility and Competitive Salaries: Remote data analyst positions offer a wide salary range, and most high-paying jobs don't require you to work on-site!
 
 3. Skills for Top-Paying Roles: Advanced proficiency in SQL is crucial for securing high-paying data analyst positions, making it an essential skill for top earnings.
 
